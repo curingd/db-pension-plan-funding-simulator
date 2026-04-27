@@ -91,7 +91,9 @@ A few are worth understanding before using the model:
 
 Geltner, D.M. (1991) 'Smoothing in appraisal-based returns', *Journal of Real Estate Finance and Economics*, 4(3), pp. 327–345.
 
-Getmansky, M., Lo, A.W. and Makarov, I. (2004) 'An econometric model of serial correlation and illiquidity in hedge fund returns', *Journal of Financial Economics*, 74(3), pp. 529–609.
+Getmansky, M., Lo, A.W. and Makarov, I. (2003) An econometric model of serial correlation and illiquidity in
+hedge fund returns. NBER Working Paper No. 9571. Cambridge, MA: National Bureau of Economic
+Research.
 
 Pension Protection Fund (2025) *The Purple Book 2025: DB pensions universe risk profile*. Croydon: Pension Protection Fund. Available at: https://www.ppf.co.uk/-/media/PPF-Website/Public/Purple-Book-2025/Pension-Protection-Fund-Purple-Book-2025-accessible.pdf (Accessed: 26 April 2026).
 
